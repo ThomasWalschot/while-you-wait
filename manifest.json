@@ -1,0 +1,9 @@
+{
+  "name": "Phone Light",
+  "short_name": "Phone Light",
+  "start_url": "./",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait"
+}
